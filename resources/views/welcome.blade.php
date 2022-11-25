@@ -59,5 +59,8 @@
         <div class="mt-5">
             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Labore explicabo pariatur quam magni, inventore ex blanditiis culpa aspernatur excepturi fugiat, dolorum doloribus nulla debitis ducimus corporis necessitatibus illo perspiciatis! Accusantium?
         </div>
+        <div class="mt-5">
+            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Labore explicabo pariatur quam magni, inventore ex blanditiis culpa aspernatur excepturi fugiat, dolorum doloribus nulla debitis ducimus corporis necessitatibus illo perspiciatis! Accusantium?
+        </div>
     </div>
 @endsection
